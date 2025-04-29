@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import { HomePage } from './components/home'
 import { AboutMe } from './components/about-me';
 import { Gis } from './components/gis';
-import { StyleGuide } from './components/style';
+import { StyleGuide } from './components/style'; 
 import './App.css'
 import {Routes, Route} from 'react-router'
 
