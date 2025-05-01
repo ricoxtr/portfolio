@@ -4,6 +4,26 @@
     display: flex;
     align-items: center;
     background: black;
-    justify-content: space-betwen;
+    justify-content: space-between;
+}
+
+
+
+.leftNav {
+    flex: 1;
+}
+
+.midNav {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.rightNav {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
 }
 
