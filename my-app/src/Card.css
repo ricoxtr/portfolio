@@ -1,0 +1,22 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    direction: column;
+    padding:50px;
+    background-color : black;
+    width: 500px;
+    height: ;
+}
+
+.card-image {
+    height: 200px;
+    width: .200px;
+}
+
+.card-image img {
+    height: 200px;
+    width: 220px;
+    
+    object-fit: cover;
+    
+}

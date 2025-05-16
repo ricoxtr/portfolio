@@ -15,7 +15,7 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #111A26;
   text-decoration: inherit;
 }
 a:hover {
@@ -39,8 +39,8 @@ h1 {
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #213547;
-    background-color: #ffffff;
+    color: #111A26;
+    background-color: #C5CEDA;
   }
   a:hover {
     color: #747bff;

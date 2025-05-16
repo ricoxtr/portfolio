@@ -6,7 +6,7 @@ import { Link } from 'react-router';
     return(
         <nav>
           <div class= "leftNav">
-            <h2> hello I am the mighty pumpkin</h2>
+            <h2> rico</h2>
           </div>
                 
           <div class= "midNav">
